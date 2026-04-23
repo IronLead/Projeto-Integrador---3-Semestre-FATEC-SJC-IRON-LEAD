@@ -127,7 +127,6 @@ Comandos utilizados para edição dos dados brutos </p>
 
 # *Dashboard* 
 <img width="1600" height="533" alt="73865241-6281-4c60-ad9c-18e876eeb7bf" src="https://github.com/user-attachments/assets/e858c1f0-d19e-4e54-90bc-cdf8b8aaad34" />
-](https://app.powerbi.com/view?r=eyJrIjoiOTIyYWM3MDMtNzYzNi00Zjk2LWI4NjAtNmYzMDUyYzIzNzk0IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
 
 # Documentação 
 * <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/> 🔗 [Sprint_1](https://docs.google.com/document/d/1UhrcqCnoHWJFlpVQ8VTm27dsnq9JZDk-/edit?usp=sharing&ouid=108320604390744902665&rtpof=true&sd=true)
