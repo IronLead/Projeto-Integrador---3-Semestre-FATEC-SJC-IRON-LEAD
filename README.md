@@ -1,4 +1,4 @@
-![Banner API III ](https://github.com/user-attachments/assets/<img width="1600" height="533" alt="73865241-6281-4c60-ad9c-18e876eeb7bf" src="https://github.com/user-attachments/assets/d212d8c4-9105-492d-af83-192feb8456ee" />
+![Banner API III ] width="1600" height="533" alt="73865241-6281-4c60-ad9c-18e876eeb7bf" src="https://github.com/user-attachments/assets/d212d8c4-9105-492d-af83-192feb8456ee" />
 
 
 # <h1 align="center"> Aprendizado por Projeto Integrador (API) :brazil:
