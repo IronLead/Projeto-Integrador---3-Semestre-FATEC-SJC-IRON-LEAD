@@ -25,10 +25,11 @@ A aprendizagem baseada em projetos integradores segue uma abordagem dinâmica e 
 # <h1 align="center"> Projeto
 
 # Objetivo 
-Desenvolver um dashboard interativo de Business Intelligence que consolide e apresente dados de movimentação de cargas especiais e perigosas, com base nos registros do IBAMA. A ferramenta deverá possibilitar a análise de indicadores estratégicos, como tipos de cargas transportadas, principais modais utilizados, origem e destino (matriz OD), além de métricas segmentadas por Estado e em nível nacional. O sistema visa facilitar a visualização e interpretação dos dados para apoiar a tomada de decisão, planejamento logístico e monitoramento ambiental relacionado ao transporte dessas cargas.
+Desenvolver um dashboard interativo de Business Intelligence que consolide e apresente dados relacionados à circulação e aos impactos dos veículos pesados, com base nos registros do RENAEST, DATASUS e Polícia Rodoviária Federal (PRF). A ferramenta deverá possibilitar a análise de indicadores estratégicos, como volume de circulação de veículos pesados, tipos de ocorrências registradas, índices de acidentes, internações hospitalares e óbitos associados, além da distribuição geográfica das informações por Estado e em nível nacional. O sistema visa facilitar a visualização e interpretação dos dados para apoiar a tomada de decisão, o planejamento logístico, a gestão de riscos e o monitoramento dos impactos na saúde pública e na segurança viária relacionados ao transporte rodoviário de veículos pesados.
 
 # Resultado esperado
-Entrega de um dashboard interativo em Power BI com dados atualizados sobre cargas especiais e perigosas, permitindo análise por tipo de carga, modal, origem-destino e localização geográfica. A solução inclui scripts em Python, documentação técnica e relatório analítico para apoio a decisões estratégicas e políticas públicas.
+Entrega de um dashboard interativo em Power BI com dados atualizados sobre veículos pesados, permitindo a análise da circulação, ocorrências registradas, acidentes e impactos na saúde pública. A solução possibilita a visualização por Estado, nível nacional e distribuição geográfica, com integração de dados provenientes do RENAEST, DATASUS e PRF. Inclui ainda scripts em Python, documentação técnica e relatório analítico, com o objetivo de apoiar a tomada de decisões estratégicas, o planejamento logístico e a formulação de políticas públicas.
+
 # Equipe
 
 
@@ -54,36 +55,53 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 - :white_check_mark: Atribuição das atividades para a Sprint 1.
   
 ## 📌 Sprint 1 
-- :white_check_mark: Como tomador de decisão em políticas públicas, solicito acessar as bases públicas para obter os dados necessários ao projeto.
-- :white_check_mark: Como analista de dados, preciso padronizar os formatos, remover erros e preparar os dados para análise.
-- :white_check_mark: Como tomador de decisão em políticas públicas, desejo que o ambiente de versionamento do projeto seja criado e bem estruturado para garantir controle e rastreabilidade.
-- :white_check_mark: Como analista de dados, preciso definir como os dados serão consolidados e armazenados de forma eficiente.
-- :white_check_mark: Como analista de dados, preciso criar uma visualização inicial dos dados para entender padrões e apoiar a definição das próximas análises.
-- :white_check_mark: Como analista de dados, quero desenvolver scripts que tratem e organizem os dados para alimentar o dashboard.
+- :white_check_mark: Como tomador de decisão acessar as bases públicas da PRF, DATASUS, DENATRAN e IBGE.
+- :white_check_mark: Como analista de dados, realizar a "limpeza" das bases, retirando todas as informações que não são tão relevantes.
+- :white_check_mark: Como tomador de decisão, iniciar a estruturação do dashboard, sempre visando uma navegação intuitiva.
+- :white_check_mark: Como analista de dados,  estruturar o repositório do GitHub e lançar as informações que estão sendo desenvolvidas.
+- :white_check_mark: Como analista de dados,  trazer dados gerais sobre os acidentes na primeira tela do dashboard e apresentar os filtros por estado.
+- :white_check_mark: Como analista de dados,  visualizar o número total de acidentes envolvendo veículos pesados ao longo do tempo.
 - :white_check_mark: Como tomador de decisão em políticas públicas, preciso que os requisitos estejam documentados e as atividades organizadas para garantir o alinhamento da equipe.
-- :white_check_mark: Como analista de logística, desejo identificar quais cargas foram mais movimentadas para análise operacional.
-  
-## 📌 Sprint 2 - ANDAMENTO 
--  :white_check_mark:Como tomador de decisão em políticas públicas, quero visualizar as telas iniciais do dashboard, com dados integrados do IBAMA, RENAEST, acidentes, clima e movimentação de cargas, para acompanhar o desenvolvimento da solução.
--  :white_check_mark:Como tomador de decisão em políticas públicas, quero visualizar os dados já filtrados para o modal rodoviário e tipo de veículo caminhão, para analisar de forma mais precisa os principais fluxos de transporte.
--  :white_check_mark:Como tomador de decisão em políticas públicas, quero ver gráficos e indicadores mais claros no formato de cards, para facilitar a leitura e interpretação dos resultados.
--  :white_check_mark:MVP Sprint 1: Base de dados conectada e tratada, estrutura do repositório criada, modelo de dados definido e primeiros scripts funcionando no Colab.
--  :white_check_mark:MVP Sprint 2: Dashboard funcional com dados filtrados (rodoviário e caminhão), indicadores principais visuais e layout validado com o cliente.
-      
-## 📌 Sprint 3 
-- :white_check_mark: Como analista de logística, quero entender os principais fluxos de carga — origem e destino — para identificar padrões.
-- :white_check_mark: Como tomador de decisão em políticas públicas, desejo visualizar em gráficos como o volume de movimentações evoluiu ao longo dos anos.
-- :white_check_mark: Como tomador de decisão em políticas públicas, quero saber quais empresas mais declararam movimentações (RAPP) para análise de atuação no setor.
-- :white_check_mark: Como analista de logística, preciso identificar as regiões com maior incidência de acidentes.
-- :white_check_mark: Como analista de logística, desejo correlacionar os acidentes com a proximidade de pontos de parada e descanso.
+- :white_check_mark: Como analista de logística,  Inserir as tarefas que estão sendo desenvolvidas dentro do Jira (ou outra ferramenta de gestão) e fazer o acompanhamento delas.
 
+
+## 📌 Sprint 2 
+-  :white_check_mark: Como tomador de decisão em políticas públicas, customizar os filtros trazendo as informações por período (mês e ano).desenvolvimento da solução.
+-  :white_check_mark: Como tomador de decisão em políticas públicas,  também inserir filtros por tipo de veículo pesado (caminhão, ônibus, etc.). 
+-  :white_check_mark: Como tomador de decisão em políticas públicas,  criar KPI's mostrando a distribuição geográfica dos acidentes envolvendo veículos pesados.
+-  :white_check_mark: MVP Sprint 1: Base de dados conectada e tratada, visualizar os KPIs básicos de fatalidade e gravidade dos acidentes com veículos pesados por quantidade de habitantes.
+-  :white_check_mark: Visualizar a taxa de mortalidade por 100 mil habitantes relacionada a acidentes com veículos pesados.
+-  :white_check_mark: Visualizar a taxa de sinistros por 10 mil veículos da frota.
+-  :white_check_mark: Identificar qual o tipo de incidente por meio do dashboard (colisão, capotamento, etc.).
+-  :white_check_mark: Analisar a variação significativa de acidentes envolvendo veículos pesados entre os diferentes estados.
+-  :white_check_mark: Visualizar os dados de acidentes por tipo de veículo (pesado vs. outros).
+-  :white_check_mark: Apresentar visualização nacional e estadual dos acidentes integrando dados de frota, dados populacionais e sinistros. 
+-  :white_check_mark: Identificar os horários e dias da semana com maior incidência de acidentes.
+
+
+## 📌 Sprint 3 
+-  :white_check_mark: Como tomador de decisão em políticas públicas, quero que a plataforma permita exportar e compartilhar os dados e análises com facilidade.
+-  :white_check_mark: Como tomador de decisão em políticas públicas,  quero identificar qual estado tem a maior taxa de letalidade envolvendo veículos pesados.
+-  :white_check_mark: Como tomador de decisão em políticas públicas, preciso analisar a faixa etária das pessoas envolvidas nos acidentes (mortalidade por idade).
+-  :white_check_mark: Como tomador de decisão em políticas públicas, quero visualizar as causas mais comuns de acidentes com veículos pesados.
+-  :white_check_mark: Como tomador de decisão em consultar um ranking de eficiência em segurança viária para cidades com mais de 250 mil habitantes, incluindo ações de prevenção adotadas.
+-  :white_check_mark: Como tomador de decisão em comparar os indicadores de acidentes de cada estado com a média nacional.
+-  :white_check_mark: Visualizar um histórico de segurança viária entre 2015 e 2025, incluindo as ações tomadas no período.
+-  :white_check_mark: Como tomador de decisão em ter um resumo executivo com os principais insights e recomendações.
+-  :white_check_mark: Como tomador de decisão em ter um filtro para alternar entre dados de saúde e dados de acidentes envolvendo transporte.
+-  :white_check_mark: Que o dashboard seja responsivo e fácil de usar.
+-  :white_check_mark: Que o dashboard tenha opções de exportação de relatórios (PDF, CSV).
 
       
 ## 📌 Apresentação (Feira de Soluções)
-- :white_check_mark: Como tomador de decisão em políticas públicas, quero que a plataforma permita exportar e compartilhar os dados e análises com facilidade.
-- :white_check_mark: Como tomador de decisão em políticas públicas, desejo que o dashboard final seja responsivo e funcione em qualquer dispositivo.
-- :white_check_mark: Como tomador de decisão em políticas públicas, preciso que o repositório final esteja organizado e documentado para garantir manutenções futuras.
-- :white_check_mark: Como tomador de decisão em políticas públicas, quero uma apresentação final clara da solução para validar os resultados e aprovar a entrega.
+
+
+
+
+
+
+
+
 
   # Registro das Sprints :construction:
 
@@ -137,11 +155,8 @@ Comandos utilizados para edição dos dados brutos </p>
 
 # Agradecimentos 
 
-Gostaríamos de expressar nossa profunda gratidão a todos que tornaram a realização deste projeto, em benefício do Instituto de Pesos e Medidas do Estado de São Paulo (IPEM-SP), uma realidade de sucesso.
-Um agradecimento especial ao nosso Professor, cuja orientação e conhecimento foram pilares essenciais para estruturar e conduzir este trabalho. Sua dedicação em nos guiar foi fundamental para superarmos os desafios e alcançarmos nossos objetivos com excelência.
-Nosso reconhecimento se estende a Jean e a Marcus. O empenho, a colaboração incansável e a expertise de cada um foram cruciais em todas as etapas do projeto. A sinergia e o profissionalismo de vocês garantiram a qualidade e o impacto que almejávamos para o IPEM-SP.
-É gratificante saber que, juntos, pudemos contribuir para as importantes atividades de metrologia e qualidade desempenhadas pelo IPEM-SP, reforçando o compromisso com a sociedade paulista.
-A todos que, direta ou indiretamente, contribuíram com tempo, ideias ou apoio, o nosso sincero muito obrigado!
-
+Gostaríamos de expressar nossa sincera gratidão a todos que contribuíram para a realização deste projeto voltado à análise da movimentação e dos impactos dos veículos pesados no Brasil. Agradecemos especialmente ao nosso Professor, cuja orientação e conhecimento foram fundamentais para o desenvolvimento e a condução deste trabalho.
+Nosso reconhecimento também se estende a Basto e a Marcus, pelo empenho, colaboração e dedicação em todas as etapas do projeto, contribuindo diretamente para a qualidade dos resultados alcançados.
+Por fim, agradecemos a todos que, direta ou indiretamente, contribuíram com apoio, ideias e tempo para a integração e análise dos dados do RENAEST, DATASUS e PRF. Muito obrigado!
 
 -------------------------------------------------------------------
