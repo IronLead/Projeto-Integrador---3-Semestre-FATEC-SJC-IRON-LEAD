@@ -126,7 +126,7 @@ Comandos utilizados para edição dos dados brutos </p>
 * 🔗[Acesso do Python à base dados no google drive](https://colab.research.google.com/drive/1FN-EN0elO4OQ2brhSiho39kSMdLlm8_g?usp=sharing)
 
 # *Dashboard* 
-<img width="1600" height="533" alt="73865241-6281-4c60-ad9c-18e876eeb7bf" src="https://github.com/user-attachments/assets/e858c1f0-d19e-4e54-90bc-cdf8b8aaad34" />
+<img width="1600" height="681" alt="d97a246b-b77a-46a3-9bd8-eb53f3796248" src="https://github.com/user-attachments/assets/f88b1d36-f519-4e84-ad41-e16ecb2861be" />
 
 # Documentação 
 * <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/> 🔗 [Sprint_1](https://docs.google.com/document/d/1UhrcqCnoHWJFlpVQ8VTm27dsnq9JZDk-/edit?usp=sharing&ouid=108320604390744902665&rtpof=true&sd=true)
