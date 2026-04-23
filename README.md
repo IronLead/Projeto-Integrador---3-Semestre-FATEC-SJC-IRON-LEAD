@@ -126,7 +126,6 @@ Comandos utilizados para edição dos dados brutos </p>
 * 🔗[Acesso do Python à base dados no google drive](https://colab.research.google.com/drive/1FN-EN0elO4OQ2brhSiho39kSMdLlm8_g?usp=sharing)
 
 # *Dashboard* 
-[![Blue and White Modern Professional Contact Details LinkedIn Article Cover]
 <img width="1600" height="533" alt="73865241-6281-4c60-ad9c-18e876eeb7bf" src="https://github.com/user-attachments/assets/e858c1f0-d19e-4e54-90bc-cdf8b8aaad34" />
 ](https://app.powerbi.com/view?r=eyJrIjoiOTIyYWM3MDMtNzYzNi00Zjk2LWI4NjAtNmYzMDUyYzIzNzk0IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
 
