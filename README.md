@@ -68,31 +68,31 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre veíc
 
 
 ## 📌 Sprint 2 
--  :white_check_mark: Como tomador de decisão em políticas públicas, customizar os filtros trazendo as informações por período (mês e ano).desenvolvimento da solução.
--  :white_check_mark: Como tomador de decisão em políticas públicas,  também inserir filtros por tipo de veículo pesado (caminhão, ônibus, etc.). 
--  :white_check_mark: Como tomador de decisão em políticas públicas,  criar KPI's mostrando a distribuição geográfica dos acidentes envolvendo veículos pesados.
--  :white_check_mark: MVP Sprint 1: Base de dados conectada e tratada, visualizar os KPIs básicos de fatalidade e gravidade dos acidentes com veículos pesados por quantidade de habitantes.
--  :white_check_mark: Visualizar a taxa de mortalidade por 100 mil habitantes relacionada a acidentes com veículos pesados.
--  :white_check_mark: Visualizar a taxa de sinistros por 10 mil veículos da frota.
--  :white_check_mark: Identificar qual o tipo de incidente por meio do dashboard (colisão, capotamento, etc.).
--  :white_check_mark: Analisar a variação significativa de acidentes envolvendo veículos pesados entre os diferentes estados.
--  :white_check_mark: Visualizar os dados de acidentes por tipo de veículo (pesado vs. outros).
--  :white_check_mark: Apresentar visualização nacional e estadual dos acidentes integrando dados de frota, dados populacionais e sinistros. 
--  :white_check_mark: Identificar os horários e dias da semana com maior incidência de acidentes.
+-   Como tomador de decisão em políticas públicas, customizar os filtros trazendo as informações por período (mês e ano).desenvolvimento da solução.
+-   Como tomador de decisão em políticas públicas,  também inserir filtros por tipo de veículo pesado (caminhão, ônibus, etc.). 
+-   Como tomador de decisão em políticas públicas,  criar KPI's mostrando a distribuição geográfica dos acidentes envolvendo veículos pesados.
+-   MVP Sprint 1: Base de dados conectada e tratada, visualizar os KPIs básicos de fatalidade e gravidade dos acidentes com veículos pesados por quantidade de habitantes.
+-   Visualizar a taxa de mortalidade por 100 mil habitantes relacionada a acidentes com veículos pesados.
+-   Visualizar a taxa de sinistros por 10 mil veículos da frota.
+-   Identificar qual o tipo de incidente por meio do dashboard (colisão, capotamento, etc.).
+-   Analisar a variação significativa de acidentes envolvendo veículos pesados entre os diferentes estados.
+-   Visualizar os dados de acidentes por tipo de veículo (pesado vs. outros).
+-   Apresentar visualização nacional e estadual dos acidentes integrando dados de frota, dados populacionais e sinistros. 
+-   Identificar os horários e dias da semana com maior incidência de acidentes.
 
 
 ## 📌 Sprint 3 
--  :white_check_mark: Como tomador de decisão em políticas públicas, quero que a plataforma permita exportar e compartilhar os dados e análises com facilidade.
--  :white_check_mark: Como tomador de decisão em políticas públicas,  quero identificar qual estado tem a maior taxa de letalidade envolvendo veículos pesados.
--  :white_check_mark: Como tomador de decisão em políticas públicas, preciso analisar a faixa etária das pessoas envolvidas nos acidentes (mortalidade por idade).
--  :white_check_mark: Como tomador de decisão em políticas públicas, quero visualizar as causas mais comuns de acidentes com veículos pesados.
--  :white_check_mark: Como tomador de decisão em consultar um ranking de eficiência em segurança viária para cidades com mais de 250 mil habitantes, incluindo ações de prevenção adotadas.
--  :white_check_mark: Como tomador de decisão em comparar os indicadores de acidentes de cada estado com a média nacional.
--  :white_check_mark: Visualizar um histórico de segurança viária entre 2015 e 2025, incluindo as ações tomadas no período.
--  :white_check_mark: Como tomador de decisão em ter um resumo executivo com os principais insights e recomendações.
--  :white_check_mark: Como tomador de decisão em ter um filtro para alternar entre dados de saúde e dados de acidentes envolvendo transporte.
--  :white_check_mark: Que o dashboard seja responsivo e fácil de usar.
--  :white_check_mark: Que o dashboard tenha opções de exportação de relatórios (PDF, CSV).
+-   Como tomador de decisão em políticas públicas, quero que a plataforma permita exportar e compartilhar os dados e análises com facilidade.
+-   Como tomador de decisão em políticas públicas,  quero identificar qual estado tem a maior taxa de letalidade envolvendo veículos pesados.
+-   Como tomador de decisão em políticas públicas, preciso analisar a faixa etária das pessoas envolvidas nos acidentes (mortalidade por idade).
+-   Como tomador de decisão em políticas públicas, quero visualizar as causas mais comuns de acidentes com veículos pesados.
+-   Como tomador de decisão em consultar um ranking de eficiência em segurança viária para cidades com mais de 250 mil habitantes, incluindo ações de prevenção adotadas.
+-   Como tomador de decisão em comparar os indicadores de acidentes de cada estado com a média nacional.
+-   Visualizar um histórico de segurança viária entre 2015 e 2025, incluindo as ações tomadas no período.
+-   Como tomador de decisão em ter um resumo executivo com os principais insights e recomendações.
+-   Como tomador de decisão em ter um filtro para alternar entre dados de saúde e dados de acidentes envolvendo transporte.
+-   Que o dashboard seja responsivo e fácil de usar.
+-   Que o dashboard tenha opções de exportação de relatórios (PDF, CSV).
 
       
   # Registro das Sprints :construction:
