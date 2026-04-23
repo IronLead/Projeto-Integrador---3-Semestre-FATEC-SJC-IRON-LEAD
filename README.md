@@ -107,9 +107,9 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre veíc
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| Sprint 01 – Estrutura e Dados Brutos  | 01/10/2025 | feito | [MVP](https://github.com/IronLead/Projeto-Integrador---2-Semestre-FATEC-SJC-IRON-LEAD/blob/main/MVP1.md)  |
-| Sprint 02 – Consolidação e Organização | 29/10/2025 | feito  | [MVP](https://github.com/IronLead/Projeto-Integrador---2-Semestre-FATEC-SJC-IRON-LEAD/blob/main/MVP2.md)  |
-| Sprint 03 – Visualização e Análises| 28/11/2025 | feito  | [MVP](https://github.com/IronLead/Projeto-Integrador---2-Semestre-FATEC-SJC-IRON-LEAD/blob/main/MVP%203.md)  |
+| Sprint 01 – Estrutura e Dados Brutos  | 13/04/2026 | feito |  |
+| Sprint 02 – Consolidação e Organização | 15/05/2026 |   |  |
+| Sprint 03 – Visualização e Análises| 29/05/2026 |   |  |
    
 # Desenvolvimento 
 
