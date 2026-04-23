@@ -98,7 +98,7 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre veíc
  | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | Sprint 01 – Estrutura e Dados Brutos  | 24/04/2026 | feito | [MVP]
-| Sprint 02 – Consolidação e Organização | 15/05/2026 | [MVP]   
+| Sprint 02 – Consolidação e Organização | 15/05/2026 |   | [MVP]
 | Sprint 03 – Visualização e Análises| 29/05/2026 |  | [MVP]
    
 # Desenvolvimento 
