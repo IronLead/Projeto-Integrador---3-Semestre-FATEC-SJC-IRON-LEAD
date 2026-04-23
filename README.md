@@ -95,16 +95,6 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre veíc
 -  :white_check_mark: Que o dashboard tenha opções de exportação de relatórios (PDF, CSV).
 
       
-## 📌 Apresentação (Feira de Soluções)
-
-
-
-
-
-
-
-
-
   # Registro das Sprints :construction:
 
 | Sprint            | Previsão   | Status   | Histórico |
@@ -130,13 +120,11 @@ Comandos utilizados para edição dos dados brutos </p>
 
 # Documentação 
 * <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/> 🔗 [Sprint_1](https://docs.google.com/document/d/1UhrcqCnoHWJFlpVQ8VTm27dsnq9JZDk-/edit?usp=sharing&ouid=108320604390744902665&rtpof=true&sd=true)
-* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>🔗 [Sprint_2](https://drive.google.com/file/d/1-agKW-hankdXpkAj91ruJk2IPOkqBi6D/view?usp=sharing) 
-* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>🔗 [Sprint_3]() 
+
 
 # Apresentação em *slide* 
 * <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>🔗 [Sprint_1](https://drive.google.com/file/d/1TMx9vyl7pdhdW2MdbV-DCsj88dQAqvf3/view?usp=sharing)
-* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>🔗 [Sprint_2](https://drive.google.com/file/d/1gHzFYdZF4OF_GL-lk28IqAnLjZCThu82/view?usp=sharing) 
-* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>🔗 [Sprint_3]() 
+
 
 # Tecnologias Utilizadas 
 * <img src="https://github.com/user-attachments/assets/605548ba-69fb-4fde-bfbf-e077f919fcb7" width="40"/>  *Github*
@@ -151,8 +139,7 @@ Comandos utilizados para edição dos dados brutos </p>
 * <img src="https://github.com/user-attachments/assets/dedec4fc-d1ff-45f9-a88d-875e36b72629" width="40"/>  *Teams*   
 
 # Serviços utilizados 
-* 🔗 [Dados abertos RENAEST](https://dados.transportes.gov.br/dataset/renaest)
-* 🔗 [Dados abertos IBAMA](https://dadosabertos.ibama.gov.br/dataset/transporte-de-produtos-quimicos-perigosos-ou-combustiveis)
+
 * 🔗 [Canal do youtube](https://www.youtube.com/channel/UCWBE6tKRgdDOHgyqe7G7LpQ)
 
 # Agradecimentos 
