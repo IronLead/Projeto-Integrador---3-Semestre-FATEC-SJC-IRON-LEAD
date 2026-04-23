@@ -1,5 +1,5 @@
-![Banner API II](https://github.com/user-attachments/assets/<img width="1600" height="533" alt="73865241-6281-4c60-ad9c-18e876eeb7bf" src="https://github.com/user-attachments/assets/b9d83978-fb87-4ecb-a3d6-f221fee1bde4" />
-)
+<img width="1600" height="533" alt="73865241-6281-4c60-ad9c-18e876eeb7bf" src="https://github.com/user-attachments/assets/b9d83978-fb87-4ecb-a3d6-f221fee1bde4" />
+
 
 
 # <h1 align="center"> Aprendizado por Projeto Integrador (API) :brazil:
