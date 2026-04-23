@@ -1,5 +1,5 @@
-![Banner API III ](https://github.com/user-attachments/assets/73865241-6281-4<img width="1600" height="533" alt="73865241-6281-4c60-ad9c-18e876eeb7bf" src="https://github.com/user-attachments/assets/5d4b9bea-34e6-48bc-beb8-063ee863cf51" />
-c60-ad9c-18e876eeb7bf)
+![Banner API III ](https://github.com/user-attachments/assets/<img width="1600" height="533" alt="73865241-6281-4c60-ad9c-18e876eeb7bf" src="https://github.com/user-attachments/assets/d212d8c4-9105-492d-af83-192feb8456ee" />
+
 
 # <h1 align="center"> Aprendizado por Projeto Integrador (API) :brazil:
 A aprendizagem baseada em projetos integradores segue uma abordagem dinâmica e interativa, semelhante às metodologias ágeis. Nesse método, os alunos desenvolvem conhecimentos e habilidades ao trabalhar em projetos práticos, organizados em ciclos de planejamento, execução e retrospectiva. A interdisciplinaridade é valorizada, permitindo que diferentes áreas do conhecimento sejam aplicadas de forma colaborativa para solucionar desafios do mundo real, promovendo a adaptação contínua e a entrega incremental de resultados.
