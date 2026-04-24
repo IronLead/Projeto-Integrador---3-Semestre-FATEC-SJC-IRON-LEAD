@@ -148,6 +148,10 @@ Comandos utilizados para edição dos dados brutos </p>
 
 # Serviços utilizados 
 
+* 🔗 [PRF](https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf)
+* 🔗[DATASUS](https://tabnet.datasus.gov.br/cgi/deftohtm.exe?sim/cnv/ext10uf.def)
+* 🔗[SENATRA](https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/estatisticas-frota-de-veiculos-senatran)
+* 🔗[IBGE](https://sidra.ibge.gov.br/acervo#/S/Q)
 * 🔗 [Canal do youtube](https://www.youtube.com/channel/UCWBE6tKRgdDOHgyqe7G7LpQ)
 <br>
 
