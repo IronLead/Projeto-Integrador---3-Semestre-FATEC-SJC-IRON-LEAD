@@ -48,7 +48,7 @@
 :smile: |  Marcílio Santos  |     Team Member      |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcilio-oliveira-20273a104/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/mos2812)   |
 :smile: |  Matheus Alves  |  Team Member   |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-siqueira-a11186201/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/matheussiqueira14)          |
 :smile: |  Matheus Augusto  |  Srum Master    |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-augusto-silva-santos?/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/maugustto)          |
-🐒 |  Vitor Hugo   |   Product Owner   |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-hugo-nascimento-9b161531b) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/vitor411)          |
+:smile: |  Vitor Hugo   |   Product Owner   |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-hugo-nascimento-9b161531b) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/vitor411)          |
 :smile: |  Marco Rangel  |  Team Member  |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-hugo-nascimento-9b161531b) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/marcorangel73)          |
 <br>
 
@@ -153,8 +153,8 @@ Comandos utilizados para edição dos dados brutos </p>
 * 🔗 [Canal do youtube](https://www.youtube.com/channel/UCWBE6tKRgdDOHgyqe7G7LpQ)
 <br>
 
-# Agradecimentos 
+# Agradecimentos 🚧
 
-<p align="justify">Gostaríamos de agradecer ao Professor Marcus Nascimento pela orientação estratégica e pela representação do ONSV, e ao Professor Carlos Bastos pelo suporte técnico fundamental no desenvolvimento deste trabalho. Nosso reconhecimento estende-se aos docentes pela coordenação das competências de logística e desenvolvimento ágil ao longo do semestre. Por fim, agradecemos ao CADI e ao Observatório Nacional de Segurança Viária (ONSV) por proporem o desafio e viabilizarem a integração das bases de dados do PRF, DATASUS, DENATRAN e IBGE, essenciais para a realização deste projeto. Muito obrigado!</p>
+<p align="justify">Gratidão a todos que fizeram parte até aqui.</p>
 
 -------------------------------------------------------------------
