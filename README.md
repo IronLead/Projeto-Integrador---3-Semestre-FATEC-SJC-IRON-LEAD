@@ -155,8 +155,6 @@ Comandos utilizados para edição dos dados brutos </p>
 
 # Agradecimentos 
 
-<p align="justify">Gostaríamos de expressar nossa sincera gratidão a todos que contribuíram para a realização deste projeto voltado à análise da movimentação e dos impactos dos veículos pesados no Brasil. Agradecemos especialmente ao nosso Professor, cuja orientação e conhecimento foram fundamentais para o desenvolvimento e a condução deste trabalho.
-Nosso reconhecimento também se estende a Basto e a Marcus, pelo empenho, colaboração e dedicação em todas as etapas do projeto, contribuindo diretamente para a qualidade dos resultados alcançados.
-Por fim, agradecemos a todos que, direta ou indiretamente, contribuíram com apoio, ideias e tempo para a integração e análise dos dados do RENAEST, DATASUS e PRF. Muito obrigado!</p>
+<p align="justify">Gostaríamos de agradecer ao Professor Marcus Nascimento pela orientação estratégica e pela representação do ONSV, e ao Professor Carlos Bastos pelo suporte técnico fundamental no desenvolvimento deste trabalho. Nosso reconhecimento estende-se aos docentes pela coordenação das competências de logística e desenvolvimento ágil ao longo do semestre. Por fim, agradecemos ao CADI e ao Observatório Nacional de Segurança Viária (ONSV) por proporem o desafio e viabilizarem a integração das bases de dados do PRF, DATASUS, DENATRAN e IBGE, essenciais para a realização deste projeto. Muito obrigado!</p>
 
 -------------------------------------------------------------------
