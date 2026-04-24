@@ -73,7 +73,7 @@
 - :white_check_mark: Como tomador de decisão em políticas públicas, preciso que os requisitos estejam documentados e as atividades organizadas para garantir o alinhamento da equipe.
 - :white_check_mark: Como analista de logística,  Inserir as tarefas que estão sendo desenvolvidas dentro do Jira (ou outra ferramenta de gestão) e fazer o acompanhamento delas.
 
-## 📌 Sprint 2 
+## :construction: Sprint 2 
 -   Como tomador de decisão em políticas públicas, customizar os filtros trazendo as informações por período (mês e ano).desenvolvimento da solução.
 -   Como tomador de decisão em políticas públicas,  também inserir filtros por tipo de veículo pesado (caminhão, ônibus, etc.). 
 -   Como tomador de decisão em políticas públicas,  criar KPI's mostrando a distribuição geográfica dos acidentes envolvendo veículos pesados.
@@ -86,7 +86,7 @@
 -   Apresentar visualização nacional e estadual dos acidentes integrando dados de frota, dados populacionais e sinistros. 
 -   Identificar os horários e dias da semana com maior incidência de acidentes.
 
-## 📌 Sprint 3 
+## :construction: Sprint 3 
 -   Como tomador de decisão em políticas públicas, quero que a plataforma permita exportar e compartilhar os dados e análises com facilidade.
 -   Como tomador de decisão em políticas públicas,  quero identificar qual estado tem a maior taxa de letalidade envolvendo veículos pesados.
 -   Como tomador de decisão em políticas públicas, preciso analisar a faixa etária das pessoas envolvidas nos acidentes (mortalidade por idade).
