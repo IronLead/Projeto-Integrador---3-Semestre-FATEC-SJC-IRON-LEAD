@@ -98,7 +98,7 @@
 -   Como tomador de decisão em ter um filtro para alternar entre dados de saúde e dados de acidentes envolvendo transporte.
 -   Que o dashboard seja responsivo e fácil de usar.
 -   Que o dashboard tenha opções de exportação de relatórios (PDF, CSV).
-
+<br>
       
  | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
