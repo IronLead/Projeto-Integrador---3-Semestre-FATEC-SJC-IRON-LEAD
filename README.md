@@ -11,7 +11,7 @@
 <p align="justify">
 <em>Project-based learning with integrative projects follows a dynamic and interactive approach, similar to agile methodologies. In this method, students develop knowledge and skills by working on practical projects, organized into cycles of planning, execution, and reflection. Interdisciplinarity is emphasized, allowing different areas of knowledge to be collaboratively applied to solve real-world challenges, promoting continuous adaptation and the incremental delivery of results.</em>
 </p>
-<br><br>
+<br>
 
 # :small_orange_diamond: Índice
 * [Projeto](#Projeto)
@@ -31,10 +31,10 @@
 # <h1 align="center"> Projeto
 
 # Objetivo 
-Desenvolver um dashboard interativo de Business Intelligence que consolide e apresente dados relacionados à circulação e aos impactos dos veículos pesados, com base nos registros do RENAEST, DATASUS e Polícia Rodoviária Federal (PRF). A ferramenta deverá possibilitar a análise de indicadores estratégicos, como volume de circulação de veículos pesados, tipos de ocorrências registradas, índices de acidentes, internações hospitalares e óbitos associados, além da distribuição geográfica das informações por Estado e em nível nacional. O sistema visa facilitar a visualização e interpretação dos dados para apoiar a tomada de decisão, o planejamento logístico, a gestão de riscos e o monitoramento dos impactos na saúde pública e na segurança viária relacionados ao transporte rodoviário de veículos pesados.
+<p align="justify">Desenvolver um dashboard interativo de Business Intelligence que consolide e apresente dados relacionados à circulação e aos impactos dos veículos pesados, com base nos registros do RENAEST, DATASUS e Polícia Rodoviária Federal (PRF). A ferramenta deverá possibilitar a análise de indicadores estratégicos, como volume de circulação de veículos pesados, tipos de ocorrências registradas, índices de acidentes, internações hospitalares e óbitos associados, além da distribuição geográfica das informações por Estado e em nível nacional. O sistema visa facilitar a visualização e interpretação dos dados para apoiar a tomada de decisão, o planejamento logístico, a gestão de riscos e o monitoramento dos impactos na saúde pública e na segurança viária relacionados ao transporte rodoviário de veículos pesados.</p>
 
 # Resultado esperado
-Entrega de um dashboard interativo em Power BI com dados atualizados sobre veículos pesados, permitindo a análise da circulação, ocorrências registradas, acidentes e impactos na saúde pública. A solução possibilita a visualização por Estado, nível nacional e distribuição geográfica, com integração de dados provenientes do RENAEST, DATASUS e PRF. Inclui ainda scripts em Python, documentação técnica e relatório analítico, com o objetivo de apoiar a tomada de decisões estratégicas, o planejamento logístico e a formulação de políticas públicas.
+<p align="justify">Entrega de um dashboard interativo em Power BI com dados atualizados sobre veículos pesados, permitindo a análise da circulação, ocorrências registradas, acidentes e impactos na saúde pública. A solução possibilita a visualização por Estado, nível nacional e distribuição geográfica, com integração de dados provenientes do RENAEST, DATASUS e PRF. Inclui ainda scripts em Python, documentação técnica e relatório analítico, com o objetivo de apoiar a tomada de decisões estratégicas, o planejamento logístico e a formulação de políticas públicas.</p>
 
 # Equipe
 
