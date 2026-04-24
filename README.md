@@ -54,8 +54,6 @@
 
 # Cronograma das Sprint 
  
-🔗  [*User story*](https://github.com/user-attachments/assets/9c9323b5-f1e7-4bf6-9820-c8e13315498e)
-
 ## 📌 Sprint 0. Concepção 
 - :white_check_mark: Backlog do produto.
 - :white_check_mark: Reuniões. 
