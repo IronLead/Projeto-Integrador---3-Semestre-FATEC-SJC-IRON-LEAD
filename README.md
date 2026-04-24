@@ -35,6 +35,7 @@
 
 # Resultado esperado
 <p align="justify">O projeto entregará um dashboard interativo no Power BI que integra dados do PRF, DATASUS, DENATRAN e IBGE, com foco na análise de sinistros envolvendo veículos pesados. O resultado inclui um ranking de eficiência em segurança viária para municípios com mais de 250 mil habitantes, acompanhado de documentação técnica com scripts de tratamento de dados em Python e um relatório analítico sobre as tendências e indicadores de mortalidade entre 2015 e 2025..</p>
+<br>
 
 # Equipe
 
@@ -49,8 +50,7 @@
 <img src="WhatsApp Image 2025-09-23 at 22.16.10.jpeg" width="80"/> |  Matheus Augusto  |  Srum Master    |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-augusto-silva-santos?/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/maugustto)          |
 <img src="WhatsApp Image 2025-09-23 at 22.12.31.jpeg" width="80"/> |  Vitor Hugo   |   Product Owner   |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-hugo-nascimento-9b161531b) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/vitor411)          |
 <img src="WhatsApp Image 2025-09-23 at 22.12.31.jpeg" width="80"/> |  Marco Rangel  |  Team Member  |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-hugo-nascimento-9b161531b) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/marcorangel73)          |
-
-
+<br>
 
 # Cronograma das Sprint 
  
@@ -73,7 +73,6 @@
 - :white_check_mark: Como tomador de decisão em políticas públicas, preciso que os requisitos estejam documentados e as atividades organizadas para garantir o alinhamento da equipe.
 - :white_check_mark: Como analista de logística,  Inserir as tarefas que estão sendo desenvolvidas dentro do Jira (ou outra ferramenta de gestão) e fazer o acompanhamento delas.
 
-
 ## 📌 Sprint 2 
 -   Como tomador de decisão em políticas públicas, customizar os filtros trazendo as informações por período (mês e ano).desenvolvimento da solução.
 -   Como tomador de decisão em políticas públicas,  também inserir filtros por tipo de veículo pesado (caminhão, ônibus, etc.). 
@@ -86,7 +85,6 @@
 -   Visualizar os dados de acidentes por tipo de veículo (pesado vs. outros).
 -   Apresentar visualização nacional e estadual dos acidentes integrando dados de frota, dados populacionais e sinistros. 
 -   Identificar os horários e dias da semana com maior incidência de acidentes.
-
 
 ## 📌 Sprint 3 
 -   Como tomador de decisão em políticas públicas, quero que a plataforma permita exportar e compartilhar os dados e análises com facilidade.
@@ -107,9 +105,10 @@
 | Sprint 01 – Estrutura e Dados Brutos  | 24/04/2026 | Concluído | [MVP](https://github.com/IronLead/Projeto-Integrador---3-Semestre-FATEC-SJC-IRON-LEAD/blob/main/MVP1.md)
 | Sprint 02 – Consolidação e Organização | 15/05/2026 |   | [MVP]
 | Sprint 03 – Visualização e Análises| 29/05/2026 |  | [MVP]
-   
-# Desenvolvimento 
+<br> 
 
+# Desenvolvimento 
+<br>
 
 # Comandos utilizados
 
@@ -119,17 +118,19 @@ Comandos utilizados para edição dos dados brutos </p>
 * 🔗[limpeza da base de dados](https://colab.research.google.com/drive/1J77_Q8--C9WD3igngOdiWE2f3KLg_FL_?usp=sharing)
 * 🔗[Limpeza dos modais, priorizando o modal rodoviário](https://colab.research.google.com/drive/1WBr__KSqmuWty15IihQGOZm-7LttZyN-?usp=sharing)
 * 🔗[Acesso do Python à base dados no google drive](https://colab.research.google.com/drive/1FN-EN0elO4OQ2brhSiho39kSMdLlm8_g?usp=sharing)
+<br>
 
 # *Dashboard* 
 [<img width="1600" height="681" alt="d97a246b-b77a-46a3-9bd8-eb53f3796248" src="https://github.com/user-attachments/assets/f88b1d36-f519-4e84-ad41-e16ecb2861be" /> ](https://app.powerbi.com/view?r=eyJrIjoiOTM5YzMwMjYtNWE4ZC00Y2MxLTlmYmUtZWVhNTNhNWFjMTRmIiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9)
+<br>
 
 # Documentação 
 * <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/> 🔗 [Sprint_1](https://docs.google.com/document/d/1UhrcqCnoHWJFlpVQ8VTm27dsnq9JZDk-/edit?usp=sharing&ouid=108320604390744902665&rtpof=true&sd=true)
-
+<br>
 
 # Apresentação em *slide* 
 * <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>🔗 [Sprint_1](https://drive.google.com/file/d/1TMx9vyl7pdhdW2MdbV-DCsj88dQAqvf3/view?usp=sharing)
-
+<br>
 
 # Tecnologias Utilizadas 
 * <img src="https://github.com/user-attachments/assets/605548ba-69fb-4fde-bfbf-e077f919fcb7" width="40"/>  *Github*
@@ -137,20 +138,23 @@ Comandos utilizados para edição dos dados brutos </p>
 * <img src="https://github.com/user-attachments/assets/bf25df7a-bd70-482f-8cc6-8a28e014151b" width="40"/> *PowerBI*
 * <img src="https://github.com/user-attachments/assets/d3cc67f6-258f-47bf-a1b8-4cd6cf8841fd" width="40"/>  *Phyton*
 * <img src="https://github.com/user-attachments/assets/680b9d0e-807f-41d0-8552-304c62e4baf8" width="40"/>  *Google Colab*
+<br>
 
 # Canais de comunicação 
 
 * <img src="https://github.com/user-attachments/assets/e0219d75-7e97-4072-bd6a-186a299c096b" width="40"/>  *Whatsapp*
 * <img src="https://github.com/user-attachments/assets/dedec4fc-d1ff-45f9-a88d-875e36b72629" width="40"/>  *Teams*   
+<br>
 
 # Serviços utilizados 
 
 * 🔗 [Canal do youtube](https://www.youtube.com/channel/UCWBE6tKRgdDOHgyqe7G7LpQ)
+<br>
 
 # Agradecimentos 
 
-Gostaríamos de expressar nossa sincera gratidão a todos que contribuíram para a realização deste projeto voltado à análise da movimentação e dos impactos dos veículos pesados no Brasil. Agradecemos especialmente ao nosso Professor, cuja orientação e conhecimento foram fundamentais para o desenvolvimento e a condução deste trabalho.
+<p align="justify">Gostaríamos de expressar nossa sincera gratidão a todos que contribuíram para a realização deste projeto voltado à análise da movimentação e dos impactos dos veículos pesados no Brasil. Agradecemos especialmente ao nosso Professor, cuja orientação e conhecimento foram fundamentais para o desenvolvimento e a condução deste trabalho.
 Nosso reconhecimento também se estende a Basto e a Marcus, pelo empenho, colaboração e dedicação em todas as etapas do projeto, contribuindo diretamente para a qualidade dos resultados alcançados.
-Por fim, agradecemos a todos que, direta ou indiretamente, contribuíram com apoio, ideias e tempo para a integração e análise dos dados do RENAEST, DATASUS e PRF. Muito obrigado!
+Por fim, agradecemos a todos que, direta ou indiretamente, contribuíram com apoio, ideias e tempo para a integração e análise dos dados do RENAEST, DATASUS e PRF. Muito obrigado!</p>
 
 -------------------------------------------------------------------
