@@ -37,9 +37,7 @@ Desenvolver um ambiente de Business Intelligence para veículos pesados, focado 
 ## 📅 Sprint(s) Relacionadas
 | Sprints | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | Análises, dados tratados e DashBoard provisório                      | Concluído|
-| Sprint | Entregas Principais                          | Status   |            | Em andamento|
-|--------|----------------------------------------------|----------|          
+| 01     | Análises, dados tratados e DashBoard provisório                      | Concluído|                                                                                                  |          |          
 | 02    | Análises, dados tratados e DashBoard provisório
 
 
