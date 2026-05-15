@@ -1,4 +1,4 @@
-# 📌 MVP - [Sprint 01]
+# 📌 MVP - [Sprint 02]
 
 ## 🎯 Objetivo do MVP
 Desenvolver um ambiente de Business Intelligence para veículos pesados, focado na integração e padronização de dados públicos, permitindo análises consistentes e visualizações interativas, com o objetivo de apoiar a tomada de decisões estratégicas em políticas públicas e na gestão logística.
@@ -35,9 +35,13 @@ Desenvolver um ambiente de Business Intelligence para veículos pesados, focado 
 ---
 
 ## 📅 Sprint(s) Relacionadas
-| Sprint | Entregas Principais                          | Status   |
+| Sprints | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 01     | Análises, dados tratados e DashBoard provisório                      | Concluído|
+| Sprint | Entregas Principais                          | Status   |            | Em andamento|
+|--------|----------------------------------------------|----------|          
+| 02    | Análises, dados tratados e DashBoard provisório
+
 
 ---
 
