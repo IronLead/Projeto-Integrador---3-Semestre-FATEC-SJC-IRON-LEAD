@@ -59,8 +59,4 @@ Desenvolver um ambiente de Business Intelligence para veículos pesados, focado 
 ---
 
 ## 📂 Anexos / Evidências
-### Tela 1
-![Tela 1](./TELA%201%20-%20SPRINT%201.png)
 
-### Tela 2
-![Tela 2](./TELA%202%20-%20SPRINT%202.png)
