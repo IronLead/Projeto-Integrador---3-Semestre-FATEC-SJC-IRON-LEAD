@@ -31,11 +31,11 @@ Desenvolver um ambiente de Business Intelligence para veículos pesados, focado 
 | US6 | Customizar os filtros trazendo as informações por período (mês e ano).      | Baixa    | 3 pontos   |
 | US7 | Visualizar os KPIs básicos de fatalidade e gravidade dos acidentes com veículos pesados por quantidade de habitantes.  | Alta       | 5 pontos  |
 | US9 | Criar KPI's mostrando a distribuição geográfica dos acidentes envolvendo veículos pesados.     | Média      | 3 pontos   |
-| US10 | Também inserir filtros por tipo de veículo pesado (caminhão, ônibus, etc.).
-| US11 | Visualizar os dados de acidentes por tipo de veículo (pesado vs. outros).
-| US12 | Apresentar visualização nacional e estadual dos acidentes integrando dados de frota, dados populacionais e sinistros.
-| US13 | Buscar, extrair e realizar a limpeza da nova base dos DATASUS.
-| US14 |
+| US10 | Também inserir filtros por tipo de veículo pesado (caminhão, ônibus, etc.).    | Média      | 3 pontos   |
+| US11 | Visualizar os dados de acidentes por tipo de veículo (pesado vs. outros).      | Média      | 3 pontos   |
+| US12 | Apresentar visualização nacional e estadual dos acidentes integrando dados de frota, dados populacionais e sinistros.  | Média      | 3 pontos   |
+| US13 | Buscar, extrair e realizar a limpeza da nova base dos DATASUS.    | Alta      | 5 pontos   |
+
 ---
 
 ## 📅 Sprint(s) Relacionadas
