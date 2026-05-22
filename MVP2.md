@@ -23,15 +23,19 @@ Desenvolver um ambiente de Business Intelligence para veículos pesados, focado 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                  | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Acessar as bases públicas da PRF, DATASUS, DENATRAN e IBGE. | Alta       | 5 pontos   |
-| US2 |  Realizar a "limpeza" das bases, retirando todas as informações que não são tão relevantes. | Alta     | 3 pontos   |
-| US3 | Iniciar a estruturação do dashboard, sempre visando uma navegação intuitiva.         | Média      | 5 pontos  |
-| US4 |  Estruturar o repositório do GitHub e lançar as informações que estão sendo desenvolvidas. | Alta    | 3 pontos   |
-| US5 | Trazer dados gerais sobre os acidentes na primeira tela do dashboard e apresentar os filtros por estado.  | Alta       | 5 pontos   |
-| US6 | Visualizar o número total de acidentes envolvendo veículos pesados ao longo do tempo.       | Baixa    | 3 pontos   |
-| US7 | - Visualizar a quantidade de frota de veículos pesados e o aumento de sinistros fatais ao longo do tempo.  | Alta       | 5 pontos  |
-| US8 |  Inserir as tarefas que estão sendo desenvolvidas dentro do Jira (ou outra ferramenta de gestão)     | Média      | 3 pontos   |
-
+| US1 | Visualizar a taxa de sinistros por 10 mil veículos da frota. | Alta       | 5 pontos   |
+| US2 | Analisar a variação significativa de acidentes envolvendo veículos pesados entre os diferentes estados. | Alta     | 3 pontos   |
+| US3 | Identificar os horários e dias da semana com maior incidência de acidentes.         | Média      | 5 pontos  |
+| US4 | Identificar qual o tipo de incidente por meio do dashboard (colisão, capotamento, etc.). | Alta    | 3 pontos   |
+| US5 | Visualizar a taxa de mortalidade por 100 mil habitantes relacionada a acidentes com veículos pesados.  | Alta       | 5 pontos   |
+| US6 | Customizar os filtros trazendo as informações por período (mês e ano).      | Baixa    | 3 pontos   |
+| US7 | Visualizar os KPIs básicos de fatalidade e gravidade dos acidentes com veículos pesados por quantidade de habitantes.  | Alta       | 5 pontos  |
+| US9 | Criar KPI's mostrando a distribuição geográfica dos acidentes envolvendo veículos pesados.     | Média      | 3 pontos   |
+| US10 | Também inserir filtros por tipo de veículo pesado (caminhão, ônibus, etc.).
+| US11 | Visualizar os dados de acidentes por tipo de veículo (pesado vs. outros).
+| US12 | Apresentar visualização nacional e estadual dos acidentes integrando dados de frota, dados populacionais e sinistros.
+| US13 | Buscar, extrair e realizar a limpeza da nova base dos DATASUS.
+| US14 |
 ---
 
 ## 📅 Sprint(s) Relacionadas
