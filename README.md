@@ -72,7 +72,7 @@
 - :white_check_mark: Como tomador de decisão em políticas públicas, preciso que os requisitos estejam documentados e as atividades organizadas para garantir o alinhamento da equipe.
 - :white_check_mark: Como analista de logística,  Inserir as tarefas que estão sendo desenvolvidas dentro do Jira (ou outra ferramenta de gestão) e fazer o acompanhamento delas.
 
-## :construction: Sprint 2 
+## 📌 Sprint 2 
 - :white_check_mark: Como tomador de decisão em políticas públicas, customizar os filtros trazendo as informações por período (mês e ano).desenvolvimento da solução.
 - :white_check_mark: Como tomador de decisão em políticas públicas,  também inserir filtros por tipo de veículo pesado (caminhão, ônibus, etc.). 
 - :white_check_mark: Como tomador de decisão em políticas públicas,  criar KPI's mostrando a distribuição geográfica dos acidentes envolvendo veículos pesados.
@@ -103,8 +103,8 @@
  | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | Sprint 01 – Estrutura e Dados Brutos  | 24/04/2026 | Concluído | [MVP](https://github.com/IronLead/Projeto-Integrador---3-Semestre-FATEC-SJC-IRON-LEAD/blob/main/MVP1.md)
-| Sprint 02 – Consolidação e Organização | 27/05/2026 |   |        [MVP](https://github.com/IronLead/Projeto-Integrador---3-Semestre-FATEC-SJC-IRON-LEAD/blob/main/MVP2.md)
-| Sprint 03 – Visualização e Análises| 29/05/2026 |  | [MVP]
+| Sprint 02 – Consolidação e Organização | 29/05/2026 | Concluído | [MVP](https://github.com/IronLead/Projeto-Integrador---3-Semestre-FATEC-SJC-IRON-LEAD/blob/main/MVP2.md)
+| Sprint 03 – Visualização e Análises| 12/06/2026 |  | [MVP]
 <br> 
 
 # Desenvolvimento 
