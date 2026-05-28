@@ -73,17 +73,18 @@
 - :white_check_mark: Como analista de logística,  Inserir as tarefas que estão sendo desenvolvidas dentro do Jira (ou outra ferramenta de gestão) e fazer o acompanhamento delas.
 
 ## :construction: Sprint 2 
--   Como tomador de decisão em políticas públicas, customizar os filtros trazendo as informações por período (mês e ano).desenvolvimento da solução.
--   Como tomador de decisão em políticas públicas,  também inserir filtros por tipo de veículo pesado (caminhão, ônibus, etc.). 
--   Como tomador de decisão em políticas públicas,  criar KPI's mostrando a distribuição geográfica dos acidentes envolvendo veículos pesados.
--   MVP Sprint 1: Base de dados conectada e tratada, visualizar os KPIs básicos de fatalidade e gravidade dos acidentes com veículos pesados por quantidade de habitantes.
--   Visualizar a taxa de mortalidade por 100 mil habitantes relacionada a acidentes com veículos pesados.
--   Visualizar a taxa de sinistros por 10 mil veículos da frota.
--   Identificar qual o tipo de incidente por meio do dashboard (colisão, capotamento, etc.).
--   Analisar a variação significativa de acidentes envolvendo veículos pesados entre os diferentes estados.
--   Visualizar os dados de acidentes por tipo de veículo (pesado vs. outros).
--   Apresentar visualização nacional e estadual dos acidentes integrando dados de frota, dados populacionais e sinistros. 
--   Identificar os horários e dias da semana com maior incidência de acidentes.
+- :white_check_mark: Como tomador de decisão em políticas públicas, customizar os filtros trazendo as informações por período (mês e ano).desenvolvimento da solução.
+- :white_check_mark: Como tomador de decisão em políticas públicas,  também inserir filtros por tipo de veículo pesado (caminhão, ônibus, etc.). 
+- :white_check_mark: Como tomador de decisão em políticas públicas,  criar KPI's mostrando a distribuição geográfica dos acidentes envolvendo veículos pesados.
+- :white_check_mark: MVP Sprint 1: Base de dados conectada e tratada, visualizar os KPIs básicos de fatalidade e gravidade dos acidentes com veículos pesados por quantidade de habitantes.
+- :white_check_mark: Visualizar a taxa de mortalidade por 100 mil habitantes relacionada a acidentes com veículos pesados.
+- :white_check_mark: Visualizar a taxa de sinistros por 10 mil veículos da frota.
+- :white_check_mark: Identificar qual o tipo de incidente por meio do dashboard (colisão, capotamento, etc.).
+- :white_check_mark: Analisar a variação significativa de acidentes envolvendo veículos pesados entre os diferentes estados.
+- :white_check_mark: Visualizar os dados de acidentes por tipo de veículo (pesado vs. outros).
+- :white_check_mark: Apresentar visualização nacional e estadual dos acidentes integrando dados de frota, dados populacionais e sinistros. 
+- :white_check_mark: Identificar os horários e dias da semana com maior incidência de acidentes.
+- :white_check_mark: Buscar, extrair e realizar a limpeza da nova base do DATASUS.
 
 ## :construction: Sprint 3 
 -   Como tomador de decisão em políticas públicas, quero que a plataforma permita exportar e compartilhar os dados e análises com facilidade.
