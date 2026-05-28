@@ -128,7 +128,7 @@ Comandos utilizados para edição dos dados brutos </p>
 * <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/> 🔗 [Relatorio do Projeto Integrador - API](https://drive.google.com/file/d/1A3R9Y9LOzNTpdWRIM5xGztl9tia8MTm7/view?usp=drive_link)
 <br>
 
-# Apresentação em *slide* 
+# Apresentação em *slide*
 * <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>🔗 [Sprint_1](https://drive.google.com/file/d/1N_YWpjw6v7fKKD8-C_wjL0FGKCpNA6D5/view?usp=sharing)
 <br>
 
