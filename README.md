@@ -12,6 +12,7 @@
 <em>Project-based learning with integrative projects follows a dynamic and interactive approach, similar to agile methodologies. In this method, students develop knowledge and skills by working on practical projects, organized into cycles of planning, execution, and reflection. Interdisciplinarity is emphasized, allowing different areas of knowledge to be collaboratively applied to solve real-world challenges, promoting continuous adaptation and the incremental delivery of results.</em>
 </p>
 <br>
+<a href="#topo">🔼</a>
 
 # :small_orange_diamond: Índice
 * [Projeto](#Projeto)
@@ -52,6 +53,7 @@
 | <img src="Marcilio.jpeg" width="50"> | Marcílio Santos | Pesquisa/Análise | Membro da Equipe | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcilio-oliveira-20273a104/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/mos2812) |
 | <img src="Marco.jpeg" width="50"> | Marco Rangel | Pesquisa/Análise | Membro da Equipe | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rangel-marco/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/marcorangel73) |
 | <img src="matheus-alves.jpeg" width="50"> | Matheus Alves | Desenvolvedor PowerBI | Membro da Equipe | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-siqueira-a11186201/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/matheussiqueira14) |
+<a href="#topo">🔼</a>
 
 # Cronograma das Sprints
  
