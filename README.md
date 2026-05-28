@@ -22,7 +22,7 @@
 * [Comandos utilizados](#Comandos-utilizados)
 * [Dashboard](#Dashboard)
 * [Documentação](#Documentação)
-* [Apresentação em *slide*](#Apresentação-em-*slide*)
+* [Apresentação em *slide*](#Apresentação-em-slide)
 * [Tecnologias utilizadas](#Tecnologias-utilizadas)
 * [Canais de comunicação](#Canais-de-comunicação)
 * [Serviços utilizados](#Serviços-utilizados)
