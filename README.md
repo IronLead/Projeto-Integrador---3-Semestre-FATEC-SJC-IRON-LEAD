@@ -123,7 +123,10 @@ Comandos utilizados para edição dos dados brutos </p>
 <br>
 
 # *Dashboard* 
-[<img width="1600" height="681" alt="d97a246b-b77a-46a3-9bd8-eb53f3796248" src="https://github.com/user-attachments/assets/f88b1d36-f519-4e84-ad41-e16ecb2861be" /> ](https://app.powerbi.com/view?r=eyJrIjoiOTM5YzMwMjYtNWE4ZC00Y2MxLTlmYmUtZWVhNTNhNWFjMTRmIiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9)
+[<img width="1600" height="681" alt="d97a246b-b77a-46a3-9bd8-eb53f3796248" src="https://github.com/IronLead/Projeto-Integrador---3-Semestre-FATEC-SJC-IRON-LEAD/blob/main/Imagem/dashboard_sprint_i.png" /> ](https://app.powerbi.com/view?r=eyJrIjoiOTM5YzMwMjYtNWE4ZC00Y2MxLTlmYmUtZWVhNTNhNWFjMTRmIiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9)
+<br><br>
+
+[<img width="1600" height="681" alt="d97a246b-b77a-46a3-9bd8-eb53f3796248" src="https://github.com/IronLead/Projeto-Integrador---3-Semestre-FATEC-SJC-IRON-LEAD/blob/main/Imagem/dashboard_sprint_i.png" /> ](https://app.powerbi.com/view?r=eyJrIjoiOTM5YzMwMjYtNWE4ZC00Y2MxLTlmYmUtZWVhNTNhNWFjMTRmIiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9)
 <br><br>
 
 # Documentação
