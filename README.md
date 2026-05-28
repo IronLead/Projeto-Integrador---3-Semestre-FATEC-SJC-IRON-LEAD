@@ -159,5 +159,5 @@ Comandos utilizados para edição dos dados brutos </p>
 
 <p align="justify">Gratidão a todos que fizeram parte até aqui.</p>
 
-[🔼 Topo](#topo)
+<a href="#topo">🔝</a>
 -------------------------------------------------------------------
