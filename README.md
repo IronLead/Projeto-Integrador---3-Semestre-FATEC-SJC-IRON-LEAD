@@ -22,7 +22,7 @@
 * [Comandos utilizados](#Comandos-utilizados)
 * [Dashboard](#Dashboard)
 * [Documentação](#Documentação)
-* [Apresentação em *slide*](#apresentação-em-slide)
+* [Apresentação em *slide*](#Apresentação em *slide*)
 * [Tecnologias utilizadas](#Tecnologias-utilizadas)
 * [Canais de comunicação](#Canais-de-comunicação)
 * [Serviços utilizados](#Serviços-utilizados)
@@ -53,7 +53,7 @@
 | <img src="Marco.jpeg" width="50"> | Marco Rangel | Pesquisa/Análise | Membro da Equipe | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rangel-marco/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/marcorangel73) |
 | <img src="matheus-alves.jpeg" width="50"> | Matheus Alves | Desenvolvedor PowerBI | Membro da Equipe | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-siqueira-a11186201/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/matheussiqueira14) |
 
-# Cronograma das Sprint 
+# Cronograma das Sprints
  
 ## 📌 Sprint 0. Concepção 
 - :white_check_mark: Backlog do produto.
