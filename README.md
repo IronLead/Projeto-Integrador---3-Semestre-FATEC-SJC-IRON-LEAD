@@ -155,7 +155,7 @@ Comandos utilizados para edição dos dados brutos </p>
 * 🔗[Canal do youtube](https://www.youtube.com/channel/UCWBE6tKRgdDOHgyqe7G7LpQ)
 <br>
 
-# Agradecimentos 🚧
+# Agradecimentos 
 
 <p align="justify">Gratidão a todos que fizeram parte até aqui.</p>
 
