@@ -160,6 +160,7 @@ Comandos utilizados para edição dos dados brutos </p>
 # Agradecimentos 
 
 <p align="justify">Gratidão a todos que fizeram parte até aqui.</p>
+<br>
 
 <a href="#topo">🔝</a>
 -------------------------------------------------------------------
