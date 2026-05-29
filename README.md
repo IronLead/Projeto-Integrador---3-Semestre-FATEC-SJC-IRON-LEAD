@@ -135,6 +135,7 @@ Comandos utilizados para edição dos dados brutos </p>
 
 # Apresentação em *slide*
 * <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/> 🔗 [Sprint_1](https://drive.google.com/file/d/1N_YWpjw6v7fKKD8-C_wjL0FGKCpNA6D5/view?usp=sharing)
+* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/> 🔗 [Sprint_2](https://drive.google.com/file/d/1nU84u03wovJhA8iSF1KETnyhIBjv5R_N/view?usp=drive_link)
 <br>
 
 # Tecnologias Utilizadas 
