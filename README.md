@@ -162,8 +162,8 @@ Comandos utilizados para edição dos dados brutos </p>
 
 # Agradecimentos 
 
-<p align="justify">Gratidão a todos que fizeram parte até aqui.</p>
+<p align="justify">Agradecemos profundamente a todos os profissionais e parceiros envolvidos na coleta e análise destes dados. Este painel é uma ferramenta fundamental para desenharmos estratégias mais seguras, reforçando o nosso compromisso mútuo em preservar vidas..</p>
 <br>
 
-<a href="#topo">🔝</a>
+<a href="#topo"></a>
 -------------------------------------------------------------------
