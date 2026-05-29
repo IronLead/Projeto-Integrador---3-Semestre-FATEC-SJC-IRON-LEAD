@@ -63,7 +63,7 @@ Desenvolver um ambiente de Business Intelligence para veículos pesados, focado 
 ---
 
 ## 📂 Anexos / Evidências
-<img width="1464" height="808" alt="image" src="https://github.com/user-attachments/assets/352d15ae-2b2f-4c2a-b7db-da3806900804" />
+<img width="1170" height="661" alt="image" src="https://github.com/user-attachments/assets/73626590-cb5e-4655-94f7-9e583cdc58cb" />
 <img width="1502" height="810" alt="image" src="https://github.com/user-attachments/assets/f9620fe1-5fd7-450c-8005-947b15d506a2" />
 <img width="1486" height="808" alt="image" src="https://github.com/user-attachments/assets/18aa4b41-c4f0-445f-a1e6-aad0291a3e70" />
 
