@@ -1,16 +1,15 @@
 # 📌 MVP - [Sprint 02]
 
 ## 🎯 Objetivo do MVP
-Desenvolver um ambiente de Business Intelligence para veículos pesados, focado na integração e padronização de dados públicos, permitindo análises consistentes e visualizações interativas, com o objetivo de apoiar a tomada de decisões estratégicas em políticas públicas e na gestão logística.
-
+Evoluir o ambiente de Business Intelligence para veículos pesados por meio da integração, validação e disponibilização dos dados em dashboards interativos, permitindo análises iniciais e geração de insights para apoio à tomada de decisão logística e estratégica.
 ---
 
 ## 📝 Descrição da Solução
-- Acesso estruturado a bases de dados públicas relevantes.
-- Acesso estruturado a bases de dados públicas relevantes.
-- Dados consolidados, tratados e armazenados de forma eficiente.
-- Desenvolvimento de visualizações iniciais para exploração dos dados.
-- Levantamento e documentação clara dos requisitos do projeto.
+- Consolidação e padronização das bases públicas integradas.
+- Implementação de regras de qualidade e validação dos dados.
+- Desenvolvimento do modelo inicial para análise de indicadores.
+- Construção de dashboards interativos para exploração dos dados.
+- Definição e acompanhamento de KPIs estratégicos do setor logístico.
 - Análise direcionada ao contexto de veículos pesados, com foco logístico e estratégico.
 ---
 
@@ -48,13 +47,18 @@ Desenvolver um ambiente de Business Intelligence para veículos pesados, focado 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário tenha acesso à base de dados tratadas e acesso ao Dashboard em funcionamento.  
-
+- O MVP deve disponibilizar acesso à base de dados consolidada e tratada.
+- O Dashboard deve estar funcional e permitir navegação e visualização dos indicadores principais.
+- O usuário deve conseguir aplicar filtros e consultar informações de forma intuitiva.
+- Os dados exibidos devem estar consistentes com as bases utilizadas.
+  
 ---
 
 ## 📈 Métricas de Validação
-- Dois usuários testaram o MVP, com o feedback sendo positivo, com algumas melhorias relacionado ao Dashboard.
-
+- Realização de testes com usuários para validação da usabilidade do Dashboard.
+- Coleta de feedback qualitativo sobre visualização e navegação.
+- Identificação e registro de oportunidades de melhoria para próximas entregas.
+- Validação da disponibilidade e consistência dos dados apresentados.
 ---
 
 ## 🚀 Próximos Passos
