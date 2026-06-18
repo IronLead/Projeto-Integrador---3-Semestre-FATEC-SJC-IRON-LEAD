@@ -106,7 +106,7 @@
 |-------------------|------------|----------|-----------|
 | Sprint 01 – Estrutura e Dados Brutos  | 24/04/2026 | Concluído | [MVP](https://github.com/IronLead/Projeto-Integrador---3-Semestre-FATEC-SJC-IRON-LEAD/blob/main/Arquivos/MVP1.md)
 | Sprint 02 – Consolidação e Organização | 29/05/2026 | Concluído | [MVP](https://github.com/IronLead/Projeto-Integrador---3-Semestre-FATEC-SJC-IRON-LEAD/blob/main/Arquivos/MVP2.md)
-| Sprint 03 – Visualização e Análises| 12/06/2026 |  | [MVP]
+| Sprint 03 – Visualização e Análises| 18/06/2026 |  | [MVP]        
 <br> 
 
 # Desenvolvimento 
