@@ -166,7 +166,10 @@ Comandos utilizados para edição dos dados brutos </p>
 
 # Agradecimentos 
 
-<p align="justify">Agradecemos profundamente a todos os profissionais e parceiros envolvidos na coleta e análise destes dados. Este painel é uma ferramenta fundamental para desenharmos estratégias mais seguras, reforçando o nosso compromisso mútuo em preservar vidas..</p>
+<p align="justify">
+
+Agradecemos aos professores, orientadores e colegas de equipe pelo apoio, dedicação e colaboração durante o desenvolvimento deste projeto. Também agradecemos aos órgãos responsáveis pela disponibilização das bases de dados utilizadas, que tornaram possível a realização das análises apresentadas. Este trabalho representa um importante aprendizado e o resultado do esforço conjunto de todos os envolvidos.
+.</p>
 <br>
 
 <a href="#topo"></a>
