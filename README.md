@@ -88,18 +88,19 @@
 - :white_check_mark: Identificar os horários e dias da semana com maior incidência de acidentes.
 - :white_check_mark: Buscar, extrair e realizar a limpeza da nova base do DATASUS.
 
-## :construction: Sprint 3 
--   Como tomador de decisão em políticas públicas, quero que a plataforma permita exportar e compartilhar os dados e análises com facilidade.
--   Como tomador de decisão em políticas públicas,  quero identificar qual estado tem a maior taxa de letalidade envolvendo veículos pesados.
--   Como tomador de decisão em políticas públicas, preciso analisar a faixa etária das pessoas envolvidas nos acidentes (mortalidade por idade).
--   Como tomador de decisão em políticas públicas, quero visualizar as causas mais comuns de acidentes com veículos pesados.
--   Como tomador de decisão em consultar um ranking de eficiência em segurança viária para cidades com mais de 250 mil habitantes, incluindo ações de prevenção adotadas.
--   Como tomador de decisão em comparar os indicadores de acidentes de cada estado com a média nacional.
--   Visualizar um histórico de segurança viária entre 2015 e 2025, incluindo as ações tomadas no período.
--   Como tomador de decisão em ter um resumo executivo com os principais insights e recomendações.
--   Como tomador de decisão em ter um filtro para alternar entre dados de saúde e dados de acidentes envolvendo transporte.
--   Que o dashboard seja responsivo e fácil de usar.
--   Que o dashboard tenha opções de exportação de relatórios (PDF, CSV).
+## 📌 Sprint 3 
+-   :white_check_mark: Como tomador de decisão em políticas públicas, quero que a plataforma permita exportar e compartilhar os dados e análises com facilidade.
+-   :white_check_mark: Como tomador de decisão em políticas públicas,  quero identificar qual estado tem a maior taxa de letalidade envolvendo veículos pesados.
+-   :white_check_mark: Como tomador de decisão em políticas públicas, preciso analisar a faixa etária das pessoas envolvidas nos acidentes (mortalidade por idade).
+-   :white_check_mark: Como tomador de decisão em políticas públicas, preciso analisar a faixa etária das pessoas envolvidas nos acidentes (mortalidade por idade).
+-   :white_check_mark: Como tomador de decisão em políticas públicas, quero visualizar as causas mais comuns de acidentes com veículos pesados.
+-   :white_check_mark: Como tomador de decisão em consultar um ranking de eficiência em segurança viária para cidades com mais de 250 mil habitantes, incluindo ações de prevenção adotadas.
+-   :white_check_mark: Como tomador de decisão em comparar os indicadores de acidentes de cada estado com a média nacional.
+-   :white_check_mark: Visualizar um histórico de segurança viária entre 2015 e 2025, incluindo as ações tomadas no período.
+-   :white_check_mark: Como tomador de decisão em ter um resumo executivo com os principais insights e recomendações.
+-   :white_check_mark: Como tomador de decisão em ter um filtro para alternar entre dados de saúde e dados de acidentes envolvendo transporte.
+-   :white_check_mark: Que o dashboard seja responsivo e fácil de usar.
+-  :white_check_mark:  Que o dashboard tenha opções de exportação de relatórios (PDF, CSV).
 <br>
       
  | Sprint            | Previsão   | Status   | Histórico |
