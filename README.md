@@ -129,6 +129,9 @@ Comandos utilizados para edição dos dados brutos </p>
 [<img width="1600" height="681" alt="d97a246b-b77a-46a3-9bd8-eb53f3796248" src="https://github.com/IronLead/Projeto-Integrador---3-Semestre-FATEC-SJC-IRON-LEAD/blob/main/Imagem/dashboard_sprint_ii.png" /> ](https://app.powerbi.com/view?r=eyJrIjoiNjZiYmQzNjAtNjk2OC00MzdhLWJiYWUtY2U0MjI4NThiMzE2IiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9)
 <br><br>
 
+[<img width="1719" height="720" alt="image" src="https://github.com/user-attachments/assets/a1131fb2-118d-4081-ad48-10da2ac3ebe7" /> ](https://app.powerbi.com/view?r=eyJrIjoiNGY5MmExOGItMGU0NC00Njk1LTgyYjMtZmUwNTVjMWZjMTRjIiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9)
+<br><br>
+
 # Documentação
 * <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/> 🔗 [Relatorio do Projeto Integrador - API](https://drive.google.com/file/d/1A3R9Y9LOzNTpdWRIM5xGztl9tia8MTm7/view?usp=drive_link)
 <br>
