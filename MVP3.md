@@ -70,6 +70,6 @@ Transformar os dados já consolidados e validados em informações estratégicas
 ---
 
 ## 📂 Anexos / Evidências
-<img width="1170" height="661" alt="image" src="https://github.com/user-attachments/assets/73626590-cb5e-4655-94f7-9e583cdc58cb" />
-<img width="1502" height="810" alt="image" src="https://github.com/user-attachments/assets/f9620fe1-5fd7-450c-8005-947b15d506a2" />
-<img width="1486" height="808" alt="image" src="https://github.com/user-attachments/assets/18aa4b41-c4f0-445f-a1e6-aad0291a3e70" />
+<img width="1170" height="661" alt="image" src="https://github.com/IronLead/Projeto-Integrador---3-Semestre-FATEC-SJC-IRON-LEAD/blob/main/Imagem/tela%201.png" />
+<img width="1502" height="810" alt="image" src="https://github.com/IronLead/Projeto-Integrador---3-Semestre-FATEC-SJC-IRON-LEAD/blob/main/Imagem/tela%202.png" />
+<img width="1486" height="808" alt="image" src="https://github.com/IronLead/Projeto-Integrador---3-Semestre-FATEC-SJC-IRON-LEAD/blob/main/Imagem/tela%203.png" />
