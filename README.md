@@ -92,7 +92,6 @@
 -   :white_check_mark: Como tomador de decisão em políticas públicas, quero que a plataforma permita exportar e compartilhar os dados e análises com facilidade.
 -   :white_check_mark: Como tomador de decisão em políticas públicas,  quero identificar qual estado tem a maior taxa de letalidade envolvendo veículos pesados.
 -   :white_check_mark: Como tomador de decisão em políticas públicas, preciso analisar a faixa etária das pessoas envolvidas nos acidentes (mortalidade por idade).
--   :white_check_mark: Como tomador de decisão em políticas públicas, preciso analisar a faixa etária das pessoas envolvidas nos acidentes (mortalidade por idade).
 -   :white_check_mark: Como tomador de decisão em políticas públicas, quero visualizar as causas mais comuns de acidentes com veículos pesados.
 -   :white_check_mark: Como tomador de decisão em consultar um ranking de eficiência em segurança viária para cidades com mais de 250 mil habitantes, incluindo ações de prevenção adotadas.
 -   :white_check_mark: Como tomador de decisão em comparar os indicadores de acidentes de cada estado com a média nacional.
