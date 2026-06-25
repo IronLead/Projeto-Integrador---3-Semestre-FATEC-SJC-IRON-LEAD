@@ -1,7 +1,8 @@
 # 📌 MVP - [Sprint 03]
 
 ## 🎯 Objetivo do MVP
-Transformar os dados já consolidados e validados em informações estratégicas por meio da criação de indicadores logísticos e modelos analíticos iniciais.
+<p align="justify"> Transformar os dados já consolidados e validados em informações estratégicas por meio da criação de indicadores logísticos e modelos analíticos iniciais.</p>
+
 ---
 
 ## 📝 Descrição da Solução
@@ -11,11 +12,12 @@ Transformar os dados já consolidados e validados em informações estratégicas
 - Criação de regras de cálculo para indicadores.
 - Validação dos resultados com dados históricos
 - Preparação da camada analítica para consumo pelos dashboards.
+
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** Cliente ( Coordenador Marcus Nascimento ) 
-- **Persona 2:** Bastos
+- **Persona 1:** Cliente (Coordenador Marcus Nascimento) 
+- **Persona 2:** Carlos Eduardo Bastos
 
 ---
 
