@@ -66,7 +66,8 @@
 ---
 
 ## 🚀 Próximos Passos
-- Ajustes referente a parte visual, em relação aos gráficos, e tratamento da base de dados, deixando somente modal rodoviário e veículo caminhão.
+- Foi adicionado um novo gráfico para identificar os tipos de acidentes mais frequentes. (Essa visualização facilita a identificação dos eventos com maior impacto na base de dados, exemplo: Colisão traseira, colisão fronta, tombamento).
+- Análise das Causas dos Acidentes, exemplo: falha mecânica ou falha humana).
 
 ---
 
