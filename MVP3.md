@@ -31,9 +31,10 @@
 | US5 | Ranking de eficiência em segurança viária para cidades com mais de 250 mil habitantes, incluindo ações de prevenção adotadas.  | Alta       | 5 pontos |
 | US6 | Comparar os indicadores de acidentes de cada estado com a média nacional.      | Baixa    | 3 pontos   |
 | US7 | Segurança viária entre 2015 e 2025, incluindo as ações tomadas no período. | Alta       | 5 pontos  |
+| US8 | Filtro para alternar entre dados de saúde e dados de acidentes envolvendo transporte. | Média       | 5 pontos  |
 | US9 | Resumo executivo com os principais insights e recomendações.     | Média      | 3 pontos   |
 | US10 | Dashboard interativo, responsivo e fácil de usar.    | Média      | 3 pontos   |
-| US11 | Dashboard tenha opções de exportação de relatórios (DF, CSV).      | Média      | 3 pontos   |
+| US11 | Dashboard tenha opções de exportação de relatórios (PDF, CSV).    | Média      | 3 pontos   |
 
 ---
 
