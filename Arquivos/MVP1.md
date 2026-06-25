@@ -1,7 +1,7 @@
 # 📌 MVP - [Sprint 01]
 
 ## 🎯 Objetivo do MVP
-Desenvolver um ambiente de Business Intelligence para veículos pesados, focado na integração e padronização de dados públicos, permitindo análises consistentes e visualizações interativas, com o objetivo de apoiar a tomada de decisões estratégicas em políticas públicas e na gestão logística.
+<p align="justify"> Desenvolver um ambiente de Business Intelligence para veículos pesados, focado na integração e padronização de dados públicos, permitindo análises consistentes e visualizações interativas, com o objetivo de apoiar a tomada de decisões estratégicas em políticas públicas e na gestão logística. </p>
 
 ---
 
@@ -29,7 +29,7 @@ Desenvolver um ambiente de Business Intelligence para veículos pesados, focado 
 | US4 |  Estruturar o repositório do GitHub e lançar as informações que estão sendo desenvolvidas. | Alta    | 3 pontos   |
 | US5 | Trazer dados gerais sobre os acidentes na primeira tela do dashboard e apresentar os filtros por estado.  | Alta       | 5 pontos   |
 | US6 | Visualizar o número total de acidentes envolvendo veículos pesados ao longo do tempo.       | Baixa    | 3 pontos   |
-| US7 | - Visualizar a quantidade de frota de veículos pesados e o aumento de sinistros fatais ao longo do tempo.  | Alta       | 5 pontos  |
+| US7 | Visualizar a quantidade de frota de veículos pesados e o aumento de sinistros fatais ao longo do tempo.  | Alta       | 5 pontos  |
 | US8 |  Inserir as tarefas que estão sendo desenvolvidas dentro do Jira (ou outra ferramenta de gestão)     | Média      | 3 pontos   |
 
 ---
