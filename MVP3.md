@@ -24,18 +24,16 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                  | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Desenvolvido indicador para visualização da taxa de sinistros por 10 mil veículos da frota. | Alta       | 5 pontos   |
-| US2 | Implementada análise comparativa da variação de acidentes envolvendo veículos pesados entre diferentes estados. | Alta     | 3 pontos   |
-| US3 | Criado painel para identificação dos horários e dias da semana com maior incidência de acidentes.        | Média      | 5 pontos  |
-| US4 | Desenvolvida visualização dos tipos de incidentes no dashboard (colisão, capotamento, entre outros). | Alta    | 3 pontos   |
-| US5 | Implementado indicador da taxa de mortalidade por 100 mil habitantes relacionada aos acidentes com veículos pesados.  | Alta       | 5 pontos   |
-| US6 | Customizar os filtros trazendo as informações por período (mês e ano).      | Baixa    | 3 pontos   |
-| US7 | Desenvolvidos KPI’s de fatalidade e gravidade dos acidentes considerando quantidade de habitantes. | Alta       | 5 pontos  |
-| US9 | Criar KPI's mostrando a distribuição geográfica dos acidentes envolvendo veículos pesados.     | Média      | 3 pontos   |
-| US10 |Implementados filtros por categoria de veículo pesado (caminhão, ônibus etc.).    | Média      | 3 pontos   |
-| US11 | Visualizar os dados de acidentes por tipo de veículo (pesado vs. outros).      | Média      | 3 pontos   |
-| US12 | Estruturada visualização comparativa entre acidentes por tipo de veículo (pesado vs. outros). | Média      | 3 pontos   |
-| US13 | Realizado processo de busca, extração e limpeza da base de dados DATASUS.   | Alta      | 5 pontos   |
+| US1 | Plataforma permita exportar e compartilhar os dados e análises com facilidade. | Alta       | 5 pontos   |
+| US2 | Identificar qual estado tem a maior taxa de letalidade envolvendo veículos pesados. | Alta     | 3 pontos   |
+| US3 | Analisar a faixa etária das pessoas envolvidas nos acidentes (mortalidade por idade). | Média      | 5 pontos  |
+| US4 | Visualizar as causas mais comuns de acidentes com veículos pesados. | Alta    | 3 pontos   |
+| US5 | Ranking de eficiência em segurança viária para cidades com mais de 250 mil habitantes, incluindo ações de prevenção adotadas.  | Alta       | 5 pontos |
+| US6 | Comparar os indicadores de acidentes de cada estado com a média nacional.      | Baixa    | 3 pontos   |
+| US7 | Segurança viária entre 2015 e 2025, incluindo as ações tomadas no período. | Alta       | 5 pontos  |
+| US9 | Resumo executivo com os principais insights e recomendações.     | Média      | 3 pontos   |
+| US10 | Dashboard interativo, responsivo e fácil de usar.    | Média      | 3 pontos   |
+| US11 | Dashboard tenha opções de exportação de relatórios (DF, CSV).      | Média      | 3 pontos   |
 
 ---
 
