@@ -15,8 +15,8 @@ Desenvolver um ambiente de Business Intelligence para veículos pesados, focado 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** Cliente ( Coordenador Marcus Nascimento ) 
-- **Persona 2:** Bastos
+- **Persona 1:** Cliente (Coordenador Marcus Nascimento) 
+- **Persona 2:** Carlos Eduardo Bastos
 
 ---
 
