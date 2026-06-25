@@ -1,7 +1,7 @@
 # 📌 MVP - [Sprint 02]
 
 ## 🎯 Objetivo do MVP
-Evoluir o ambiente de Business Intelligence para veículos pesados por meio da integração, validação e disponibilização dos dados em dashboards interativos, permitindo análises iniciais e geração de insights para apoio à tomada de decisão logística e estratégica.
+<p align="justify"> Evoluir o ambiente de Business Intelligence para veículos pesados por meio da integração, validação e disponibilização dos dados em dashboards interativos, permitindo análises iniciais e geração de insights para apoio à tomada de decisão logística e estratégica.</p>
 ---
 
 ## 📝 Descrição da Solução
@@ -14,8 +14,8 @@ Evoluir o ambiente de Business Intelligence para veículos pesados por meio da i
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** Cliente ( Coordenador Marcus Nascimento ) 
-- **Persona 2:** Bastos
+- **Persona 1:** Cliente (Coordenador Marcus Nascimento) 
+- **Persona 2:** Carlos Eduardo Bastos
 
 ---
 
