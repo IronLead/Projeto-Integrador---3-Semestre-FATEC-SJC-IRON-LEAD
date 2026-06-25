@@ -2,6 +2,7 @@
 
 ## 🎯 Objetivo do MVP
 <p align="justify"> Evoluir o ambiente de Business Intelligence para veículos pesados por meio da integração, validação e disponibilização dos dados em dashboards interativos, permitindo análises iniciais e geração de insights para apoio à tomada de decisão logística e estratégica.</p>
+
 ---
 
 ## 📝 Descrição da Solução
@@ -11,6 +12,7 @@
 - Construção de dashboards interativos para exploração dos dados.
 - Definição e acompanhamento de KPIs estratégicos do setor logístico.
 - Análise direcionada ao contexto de veículos pesados, com foco logístico e estratégico.
+
 ---
 
 ## 👥 Personas / Usuários-Alvo
