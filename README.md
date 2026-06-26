@@ -34,7 +34,7 @@
 <p align="justify">Desenvolver uma ferramenta de Business Intelligence integrada para a análise da segurança viária no Brasil, com foco específico no impacto de veículos pesados. O projeto visa integrar bases de dados públicas (PRF, DATASUS, DENATRAN e IBGE) para calcular e visualizar indicadores de sinistralidade, frota e exposição ao risco. A solução deve permitir a identificação de tendências entre 2017 e 2025 e fornecer subsídios para a formulação de políticas públicas de segurança no trânsito.</p>
 
 # Resultado esperado
-<p align="justify">O projeto entregará um dashboard interativo no Power BI que integra dados do PRF, DATASUS, DENATRAN e IBGE, com foco na análise de sinistros envolvendo veículos pesados. O resultado inclui um ranking de eficiência em segurança viária para municípios com mais de 250 mil habitantes, acompanhado de documentação técnica com scripts de tratamento de dados em Python e um relatório analítico sobre as tendências e indicadores de mortalidade entre 2015 e 2025..</p>
+<p align="justify">O projeto entregará um dashboard interativo no Power BI que integra dados do PRF, DATASUS, DENATRAN e IBGE, com foco na análise de sinistros envolvendo veículos pesados. O resultado inclui um ranking de eficiência em segurança viária para municípios com mais de 250 mil habitantes, acompanhado de documentação técnica com scripts de tratamento de dados em Python e um relatório analítico sobre as tendências e indicadores de mortalidade entre 2017 e 2025.</p>
 <br>
 
 # Equipe
