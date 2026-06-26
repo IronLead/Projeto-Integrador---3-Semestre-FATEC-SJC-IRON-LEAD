@@ -141,6 +141,7 @@ Comandos utilizados para edição dos dados brutos </p>
 * <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/> 🔗 [Sprint_2](https://drive.google.com/file/d/1JHtEIQnT9N3F30J-9wkFjOvLz3BDCUa6/view?usp=drive_link)
 * <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/> 🔗 [Sprint_3](https://drive.google.com/file/d/1swuGRFkdcW0LMt7K9VC3V_HosbKDA0Ln/view?usp=drive_link)
 <br>
+* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/> 🔗 [Feira de soluções](https://drive.google.com/drive/u/1/folders/1zOQE9j3o-9gFR45ke5yMjQKofk6FlbtI)
 
 # Tecnologias Utilizadas 
 * <img src="https://github.com/user-attachments/assets/605548ba-69fb-4fde-bfbf-e077f919fcb7" width="40"/>  *Github*
